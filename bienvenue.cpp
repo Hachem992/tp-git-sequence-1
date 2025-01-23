@@ -4,3 +4,18 @@ int main()
 // TODO Afficher un message de bienvenue
 return 0;
 }
+
+// Affiche un message de bienvenue
+#include <iostream>
+int main()
+{
+std::cout << "Bienvenue le monde !" << std::endl;
+return 0;
+}
+
+#include <iostream>
+int main()
+{
+std::cout << "Bienvenue !" << std::endl;
+return 0;
+}

@@ -23,6 +23,14 @@ return 0;
 #include "fonction-bienvenue.h"
 int main()
 {
+
+// Affiche un message de bienvenue
+#include "fonction-bienvenue.h"
+int main()
+{
+afficherBienvenue();
+return 0;
+}
 afficherBienvenue();
 return 0;
 }
